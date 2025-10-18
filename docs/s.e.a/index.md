@@ -1,6 +1,6 @@
 ---
 title: Solutions et al (S.E.A.)
-parent: docs
+parent: Docs
 has_children: true
 nav_order: 3
 ---
