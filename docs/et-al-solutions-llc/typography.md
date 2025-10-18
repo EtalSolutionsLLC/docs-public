@@ -11,7 +11,7 @@ nav_order: 3
 &nbsp;&nbsp;**Headers:** <span style="color: #003366">36px, Bold, Navy Blue</span><br />
 &nbsp;&nbsp;**Subheaders:** 24px, Bold, Sky Blue<br />
 &nbsp;&nbsp;**Body Text:** <span style="color: #003366">16px, Regular, Navy Blue</span><br />
-&nbsp;&nbsp;**Buttons/Links:** 18px, Bold, Orange<br />
+&nbsp;&nbsp;**Buttons/Links:** <span style="color: #FFA500">18px, Bold, Orange</span><br />
 
 ## Pallet 2 - Reliability and Playfulness
 **Primary Font: Aptos**<br />
