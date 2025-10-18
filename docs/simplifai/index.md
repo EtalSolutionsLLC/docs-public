@@ -1,6 +1,6 @@
 ---
 title: SIMPLIFAI
-parent: Brands
+parent: docs
 has_children: true
 nav_order: 4
 ---
