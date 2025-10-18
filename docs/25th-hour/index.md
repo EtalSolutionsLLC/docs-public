@@ -1,6 +1,6 @@
 ---
 title: 25th Hour
-parent: docs
+parent: Docs
 has_children: true
 nav_order: 1
 ---
