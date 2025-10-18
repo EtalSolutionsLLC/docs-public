@@ -1,6 +1,6 @@
 ---
 title: The Transformation Thread
-parent: Brands
+parent: docs
 has_children: true
 nav_order: 5
 ---
