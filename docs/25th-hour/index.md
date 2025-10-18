@@ -1,6 +1,6 @@
 ---
 title: 25th Hour
-parent: Brands
+parent: docs
 has_children: true
 nav_order: 1
 ---
