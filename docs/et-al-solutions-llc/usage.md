@@ -12,3 +12,9 @@ nav_order: 4
 **Body Text:** Use Navy Blue for readability and consistency.<br>
 **Buttons/Links:** Use Orange to draw attention and add a playful touch.<br>
 **Backgrounds:** Use Light Gray for a clean, sophisticated look.<br>
+## Pallet 2
+**Headers:** Use Royal Blue for main headers to convey reliability and stability.<br>
+**ubheaders:** Use Teal for subheadings to add a modern touch.<br>
+**Body Text:** Use Royal Blue for readability and consistency.<br>
+**Buttons/Links:** Use Yellow to draw attention and add energy.<br>
+**Backgrounds:** Use White for a clean, crisp look.<br>
