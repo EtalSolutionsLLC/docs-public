@@ -8,9 +8,9 @@ nav_order: 3
 
 ## Pallet 1 - Trust and Innovation
 **Primary Font: Aptos**<br />
-&nbsp;&nbsp;**Headers:** <span style="color: navy blud">36px, Bold, Navy Blue</span><br />
+&nbsp;&nbsp;**Headers:** <span style="color: #003366">36px, Bold, Navy Blue</span><br />
 &nbsp;&nbsp;**Subheaders:** 24px, Bold, Sky Blue<br />
-&nbsp;&nbsp;**Body Text:** 16px, Regular, Navy Blue<br />
+&nbsp;&nbsp;**Body Text:** <span style="color: #003366">16px, Regular, Navy Blue</span><br />
 &nbsp;&nbsp;**Buttons/Links:** 18px, Bold, Orange<br />
 
 ## Pallet 2 - Reliability and Playfulness
