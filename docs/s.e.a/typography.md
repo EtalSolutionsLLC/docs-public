@@ -1,6 +1,6 @@
 ---
 title: Typography
-parent: Et al Solutions LLC
+parent: Solutions et al (S.E.A.)
 nav_order: 3
 ---
 

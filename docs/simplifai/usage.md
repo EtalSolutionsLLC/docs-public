@@ -1,6 +1,6 @@
 ---
 title: Usage
-parent: Et al Solutions LLC
+parent:SIMPLIFAI
 nav_order: 4
 ---
 

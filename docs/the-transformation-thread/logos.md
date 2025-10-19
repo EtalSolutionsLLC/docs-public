@@ -1,10 +1,10 @@
 ---
 title: Logos
-parent: Et al Solutions LLC
-nav_order: 1
+parent: The Transformation Thread
+nav_order: 2
 ---
 
-# Et al Solutions LLC — Logos
+# The Transformation Thread — Logos
 
 - [woodgrain.png](/assets/logos/et-al-solutions-llc/woodgrain.png)
 - [background_image.png](/assets/logos/et-al-solutions-llc/background_image.png)

@@ -1,10 +1,10 @@
 ---
 title: Typography
-parent: Et al Solutions LLC
+parent: The Transformation Thread
 nav_order: 3
 ---
 
-# Et al Solutions LLC — Typography
+# The Transformation Thread — Typography
 
 ## References
 - [Et al Solutions LLC Pallet 1 Style Guide v3.pdf](/assets/downloads/et-al-solutions-llc/Et%20al%20Solutions%20LLC%20Pallet%201%20Style%20Guide%20v3.pdf)

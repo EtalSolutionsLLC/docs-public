@@ -1,7 +1,7 @@
 ---
 title: Colors
-parent: Et al Solutions LLC
-nav_order: 2
+parent: Solutions et al (S.E.A.)
+nav_order: 1
 ---
 
 # Et al Solutions LLC — Colors

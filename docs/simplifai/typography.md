@@ -1,6 +1,6 @@
 ---
 title: Typography
-parent: Et al Solutions LLC
+parent: SIMPLIFAI
 nav_order: 3
 ---
 

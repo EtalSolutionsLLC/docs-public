@@ -1,7 +1,7 @@
 ---
 title: Logos
-parent: Et al Solutions LLC
-nav_order: 1
+parent: SIMPLIFAI
+nav_order: 2
 ---
 
 # Et al Solutions LLC — Logos
