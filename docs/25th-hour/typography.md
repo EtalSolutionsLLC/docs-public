@@ -1,6 +1,6 @@
 ---
 title: Typography
-parent: Et al Solutions LLC
+parent: 25th Hour
 nav_order: 3
 ---
 
