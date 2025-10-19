@@ -4,7 +4,7 @@ parent: 25th Hour
 nav_order: 3
 ---
 
-# Et al Solutions LLC — Typography
+# 25th Hour — Typography
 
 Wordmark Font: Esportica Regular<br />
 Slogan Font: Supermolot Bold
