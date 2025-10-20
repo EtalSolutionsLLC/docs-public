@@ -6,4 +6,4 @@ nav_order: 1
 
 # The Transformation Thread — Colors
 
-![Color Pallet](<The Transformation Thread Color Pallet.png>)
+![Color Pallet](<./The Transformation Thread Color Pallet.png>)
