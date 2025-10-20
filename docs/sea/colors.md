@@ -6,4 +6,4 @@ nav_order: 1
 
 # Solutions et al (S.E.A.) — Colors
 
-![Color Pallet](<./SEA Color Scheme.png>)
+![Color Pallet](./sea_color_pallet.png)
