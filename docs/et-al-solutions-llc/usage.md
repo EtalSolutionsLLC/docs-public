@@ -7,14 +7,14 @@ nav_order: 4
 # Et al Solutions LLC — Usage Guidelines
 
 ## Pallet 1 - Trust and Innovation
-**Headers:** Use Navy Blue for main headers to convey trust and professionalism.<br>
-**Subheaders:** Use Sky Blue for subheadings to add clarity and openness.<br>
-**Body Text:** Use Navy Blue for readability and consistency.<br>
-**Buttons/Links:** Use Orange to draw attention and add a playful touch.<br>
-**Backgrounds:** Use Light Gray for a clean, sophisticated look.<br>
+**Headers:** <span style="color: #003366">Use Navy Blue for main headers to convey trust and professionalism.</span><br>
+**Subheaders:** <span style="color: #B7CEEB">Use Sky Blue for subheadings to add clarity and openness.</span><br>
+**Body Text:** <span style="color: #003366">Use Navy Blue for readability and consistency.</span><br>
+**Buttons/Links:** <span style="color: #FFA500">Use Orange to draw attention and add a playful touch.</span><br>
+**Backgrounds:** <span style="color: #D3D3D3">Use Light Gray for a clean, sophisticated look.</span><br>
 ## Pallet 2 - Reliability and Playfulness
-**Headers:** Use Royal Blue for main headers to convey reliability and stability.<br>
-**ubheaders:** Use Teal for subheadings to add a modern touch.<br>
-**Body Text:** Use Royal Blue for readability and consistency.<br>
-**Buttons/Links:** Use Yellow to draw attention and add energy.<br>
+**Headers:** <span style="color: #4169E1">Use Royal Blue for main headers to convey reliability and stability.</span><br>
+**ubheaders:** <span style="color: #008080">Use Teal for subheadings to add a modern touch.</span><br>
+**Body Text:** <span style="color: #4169E1">Use Royal Blue for readability and consistency.</span><br>
+**Buttons/Links:** <span style="color: #FFD700">Use Yellow to draw attention and add energy.</span><br>
 **Backgrounds:** Use White for a clean, crisp look.<br>
