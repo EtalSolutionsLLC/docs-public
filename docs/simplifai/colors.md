@@ -3,9 +3,9 @@ title: Colors
 parent: SIMPLIFAI
 nav_order: 1
 ---
-<div style="width:100%;hieght:100%background-color:#000000; color:#C0C0C0;padding:15px; border-radius:8px;">
-# SIMPLIF<span style="color:#123BFF">AI</span> — Colors<br />
 
-![Color Pallet](./simplifai_color_pallet.png)
+<div style="width:100%; height:auto; background-color:#000000; color:#C0C0C0; padding:15px; border-radius:8px;">
+  <h1>SIMPLIF<span style="color:#123BFF">AI</span> — Colors</h1>
+  <br />
+  <img src="./simplifai_color_pallet.png" />
 </div>
-![Color Pallet](./simplifai_color_pallet.png)
