@@ -13,7 +13,7 @@ nav_order: 1
 <img height="300" width="300" src="/assets/et-al-solutions-llc/logos/background-image.png" />
 <br />
 - [standard lowres background](/asset/set-al-solutions-llc/logos/background-image-lowres.jpg)&nbsp;&nbsp;
-<img height="300" width="300" src="/assets/et-al-solutions-llc/logos/background-image-lowres.png" />
+<img height="300" width="300" src="/assets/et-al-solutions-llc/logos/background-image-lowres.jpg" />
 <br />
 - [browser favicon](/assets/et-al-solutions-llc/logos/browserfavicon.png)&nbsp;&nbsp;
 <img height="300" width="300" src="/assets/et-al-solutions-llc/logos/browserfavicon.png" />
