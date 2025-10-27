@@ -21,7 +21,7 @@ nav_order: 1
 - [Et al Solutions LLC PADDED logo](/assets/et-al-solutions-llc/logos/et-al-solutions-llc-PADDED.png)&nbsp;&nbsp;
 <img height="300" width="300" src="/assets/et-al-solutions-llc/logos/et-al-solutions-llc-PADDED.png" />
 <br />
-- [Et al Solutions LLC PADDED, DENIM logo](/assets/et-al-solutions-llc/logos/et-al-solutions-llc-PADDED-DENIM.png)&nbsp;&nbsp;
+- [Et al Solutions LLC PADDED DENIM logo](/assets/et-al-solutions-llc/logos/et-al-solutions-llc-PADDED-DENIM.png)&nbsp;&nbsp;
 <img height="300" width="300" src="/assets/et-al-solutions-llc/logos/et-al-solutions-llc-PADDED-DENIM.png" />
 <br />
 - [Et al Solutions LLC SYMBOL](/assets/et-al-solutions-llc/logos/Et-al-Solutions-LLC-SYMBOL.png)&nbsp;&nbsp;
@@ -30,7 +30,7 @@ nav_order: 1
 - [Et al Solutions LLC OFFICIAL.png](/assets/et-al-solutions-llc/logos/Et-al-Solutions-LLC-OFFICIAL.png)&nbsp;&nbsp;
 <img height="300" width="300" src="/assets/et-al-solutions-llc/logos/et-al-solutions-llc-OFFICIAL.png" />
 <br />
-- [Et al Solutions LLC BLACK ELECTRIC BLUE.png](/assets/et-al-solutions-llc/logos/Et-al-Solutions-LLC-PADDED-ELECTRIC-BLUE.png)&nbsp;&nbsp;
+- [Et al Solutions LLC ELECTRIC BLUE.png](/assets/et-al-solutions-llc/logos/Et-al-Solutions-LLC-PADDED-ELECTRIC-BLUE.png)&nbsp;&nbsp;
 <img height="300" width="300" src="/assets/et-al-solutions-llc/logos/et-al-solutions-llc-PADDED-ELECTRIC-BLUE.png" />
 <br />
 - [Et al Solutions LLC BLACK.png](/assets/et-al-solutions-llc/logos/Et-al-Solutions-LLC-BLACK.png)&nbsp;&nbsp;
