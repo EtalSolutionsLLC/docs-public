@@ -8,3 +8,4 @@ nav_order: 1
 
 ![Color Pallet](./simplifai_color_pallet.png)
 </div>
+![Color Pallet](./simplifai_color_pallet.png)
