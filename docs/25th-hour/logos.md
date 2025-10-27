@@ -8,7 +8,7 @@ nav_order: 2
 
 [25th Hour BLACK](/assets/25th-hour/logos/25th-hour-BLACK.png)&nbsp;&nbsp;
 <img style="height: auto; width:150px;" src="/assets/25th-hour/logos/25th-hour-BLACK.png" />
-<br />
+<span style="line-height: 10;"><br /></span>
 [25th Hour OFFICIAL](/assets/25th-hour/logos/25th-hour-OFFICIAL.png)&nbsp;&nbsp;
 <img style="height: auto; width:150px;" src="/assets/25th-hour/logos/25th-hour-OFFICIAL.png" />
 <br />
