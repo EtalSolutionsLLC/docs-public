@@ -6,6 +6,12 @@ nav_order: 2
 
 # The Transformation Thread — Logos
 
-- [the_transformation_thread_BLACK.png](/assets/logos/et-al-solutions-llc/the_transformation_thread_BLACK.png)
-- [the_transformation_thread_OFFICIAL.png](/assets/logos/et-al-solutions-llc/the_transformation_thread_OFFICIAL.png)
-- [the_transformation_thread_PADDED.png](/assets/logos/et-al-solutions-llc/the_transformation_thread_PADDED.png)
+- [The Transformation Thread BLACK](/assets/the-transformation-thread/logos/the-transformation-thread-BLACK.png)
+<img style="height: auto; width:150px;" src="/assets/the-transformation-thread/logos/the-transformation-thread-BLACK.png" />
+<br />
+- [The Transformation Thread BLACK](/assets/the-transformation-thread/logos/the-transformation-thread-OFFICIAL.png)
+<img style="height: auto; width:150px;" src="/assets/the-transformation-thread/logos/the-transformation-thread-OFFICIAL.png" />
+<br />
+- [The Transformation Thread BLACK](/assets/the-transformation-thread/logos/the-transformation-thread-PADDED.png)
+<img style="height: auto; width:150px;" src="/assets/the-transformation-thread/logos/the-transformation-thread-PADDED.png" />
+<br />
