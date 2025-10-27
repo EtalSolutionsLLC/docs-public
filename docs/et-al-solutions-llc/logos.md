@@ -6,6 +6,8 @@ nav_order: 1
 
 # Et al Solutions LLC - Logos
 
+![woodgrain.png](/assets/et-al-solutions-llc/logos/woodgrain.png)
+
 - [woodgrain.png](/assets/et-al-solutions-llc/logos/woodgrain.png)
 - [background_image.png](/assets/et-al-solutions-llc/logos/background_image.png)
 - [background_image_lowres.jpg](/asset/set-al-solutions-llc/logos/background_image_lowres.jpg)
