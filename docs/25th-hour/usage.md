@@ -7,5 +7,5 @@ nav_order: 4
 # 25th Hour — Usage Guidelines
 
 ## References
-- [25th_hour_style_guide_v2.pdf](/assets/25th-hour/25th_hour_style_guide_v2.pdf)
+- [25th Hour Style Guide](/assets/25th-hour/25th-hour-style-guide-v2.pdf)
 

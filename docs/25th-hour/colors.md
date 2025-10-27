@@ -6,4 +6,4 @@ nav_order: 1
 
 # 25th Hour — Colors
 
-![Color Pallet](./25th_hour_color_pallet.png)
+![Color Pallet](./25th-hour-color-pallet.png)
