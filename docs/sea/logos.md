@@ -6,12 +6,12 @@ nav_order: 2
 
 # S.E.A. — Logos
 
-- [SEA_BLACK.png](/assets/sea/logos/SEA_BLACK.png)&nbsp;&nbsp;
+- [SEA BLACK(/assets/sea/logos/SEA_BLACK.png)&nbsp;&nbsp;
 <img style="height: auto; width:150px;" src="/assets/sea/logos/SEA-BLACK.png" />
 <br />
-- [SEA_OFFICIAL.png](/assets/sea/logos/SEA_OFFICIAL.png)&nbsp;&nbsp;
+- [SEA OFFICIAL](/assets/sea/logos/SEA_OFFICIAL.png)&nbsp;&nbsp;
 <img style="height: auto; width:150px;" src="/assets/sea/logos/SEA-OFFICIAL.png" />
 <br />
-- [SEA_PADDED.png](/assets/sea/logos/SEA_PADDED.png)&nbsp;&nbsp;
+- [SEA PADDED](/assets/sea/logos/SEA_PADDED.png)&nbsp;&nbsp;
 <img style="height: auto; width:150px;" src="/assets/sea/logos/SEA-PADDED.png" />
 <br />
