@@ -13,7 +13,6 @@ nav_order: 1
 <span style="line-height: 5;"><br /></span>
 [standard lowres background](/asset/set-al-solutions-llc/logos/background-image-lowres.jpg)&nbsp;&nbsp;
 <img height="150" width="150" src="/assets/et-al-solutions-llc/logos/background-image-lowres.jpg" />
-<span style="line-height: 5;"><br /></span>
 
 <span style="line-height: 5;"><br /></span>
 # Et al Solutions LLC - Logos
