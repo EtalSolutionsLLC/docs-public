@@ -7,7 +7,7 @@ nav_order: 1
 # Et al Solutions LLC - Logos
 
 - [woodgrain background](/assets/et-al-solutions-llc/logos/woodgrain.png)&nbsp;&nbsp;
-<img height="150" width="150" src="/assets/et-al-solutions-llc/logos/woodgrain.png" />
+<img style="height: auto; width:150px;" src="/assets/et-al-solutions-llc/logos/woodgrain.png" />
 <br />
 - [standard background](/assets/et-al-solutions-llc/logos/background-image.png)&nbsp;&nbsp;
 <img height="150" width="150" src="/assets/et-al-solutions-llc/logos/background-image.png" />
