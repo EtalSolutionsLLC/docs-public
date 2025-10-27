@@ -16,7 +16,7 @@ nav_order: 1
 <img height="300" width="300" src="/assets/et-al-solutions-llc/logos/background-image-lowres.jpg" />
 <br />
 - [browser favicon](/assets/et-al-solutions-llc/logos/browserfavicon.png)&nbsp;&nbsp;
-<img height="300" width="300" src="/assets/et-al-solutions-llc/logos/browserfavicon.png" />
+<img height="50" width="50" src="/assets/et-al-solutions-llc/logos/browserfavicon.png" />
 <br />
 - [Et al Solutions LLC PADDED logo](/assets/et-al-solutions-llc/logos/et-al-solutions-llc-PADDED.png)&nbsp;&nbsp;
 <img height="300" width="300" src="/assets/et-al-solutions-llc/logos/et-al-solutions-llc-PADDED.png" />
