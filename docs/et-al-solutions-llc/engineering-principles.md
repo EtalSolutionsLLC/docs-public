@@ -79,7 +79,11 @@ My strength isn’t in having every answer; it’s in building frameworks that m
 5. **Confidence Through Repeatability**  
    Methods that produce the same outcome twice are worth more than single, lucky wins. Repeatable reasoning is sustainable confidence.
 
-### Closing Thought
+---
+<br />
+
+<span style="font-weight:bold; font-size:17pt;">Closing Thought</span><br />
+
 **My job isn’t to have every answer.  
 My job is to make sure the *next answer* — whatever it is — comes easier.**
 
