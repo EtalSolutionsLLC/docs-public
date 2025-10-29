@@ -1,7 +1,7 @@
 ---
 title: Typography
 parent: Et al Solutions LLC
-nav_order: 3
+nav_order: 4
 ---
 
 # Et al Solutions LLC — Typography
