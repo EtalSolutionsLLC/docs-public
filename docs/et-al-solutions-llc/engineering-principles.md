@@ -21,8 +21,6 @@ If this document resonates, it’s because these ideas already live in you too.
 **First Published:** 29 October 2025  
 **Last Updated:** 29 October 2025
 
----
-
 <span style="font-weight:bold; font-size:17pt;">Purpose</span><br />
 To articulate a balanced engineering philosophy that favors clarity, predictability, and sustainability over unnecessary complexity. 
 
