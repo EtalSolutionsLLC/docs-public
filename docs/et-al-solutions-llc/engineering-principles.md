@@ -1,3 +1,7 @@
+---
+title: Engineering Principles
+---
+
 <span style="font-weight:bold; font-size:20pt;">Author’s Preface</span><br />
 
 This document isn’t a set of rules. It’s a reflection of how I think about building, learning, and leading.  
