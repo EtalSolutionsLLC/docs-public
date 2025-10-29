@@ -1,5 +1,7 @@
 ---
 title: Engineering Principles
+parent: Et al Solutions LLC
+nav_order: 2
 ---
 
 <span style="font-weight:bold; font-size:20pt;">Author’s Preface</span><br />
