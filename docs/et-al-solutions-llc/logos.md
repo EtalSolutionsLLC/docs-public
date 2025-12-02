@@ -1,7 +1,7 @@
 ---
 title: Logos
 parent: Et al Solutions LLC
-nav_order: 1
+nav_order: 3
 ---
 
 # Et al Solutions LLC - Backgrounds

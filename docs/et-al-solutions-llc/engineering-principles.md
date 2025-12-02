@@ -1,5 +1,7 @@
 ---
 title: Engineering Principles
+parent: Et al Solutions LLC
+nav_order: 2
 ---
 
 <span style="font-weight:bold; font-size:20pt;">Author’s Preface</span><br />
@@ -29,9 +31,8 @@ If this document resonates, it’s because these ideas already live in you too.
 To articulate a balanced engineering philosophy that favors clarity, predictability, and sustainability over unnecessary complexity. 
 
 This charter serves as a touchstone for design decisions — especially for operational scripts, automation, and maintenance artifacts.
-
 ---
-
+<br />
 <span style="font-weight:bold; font-size:17pt;">Design Balance Charter</span><br />
 
 ### 1. Bias Toward Simplicity
@@ -51,7 +52,6 @@ Optimize for the 3 a.m. version of yourself — the one debugging in low light, 
 
 ### 6. Continuous Calibration
 Simplicity and modularity are both valid; the right balance depends on context. Revisit decisions as systems mature.
-
 ---
 <br />
 
@@ -76,8 +76,10 @@ My strength isn’t in having every answer; it’s in building frameworks that m
 
 5. **Confidence Through Repeatability**  
    Methods that produce the same outcome twice are worth more than single, lucky wins. Repeatable reasoning is sustainable confidence.
+---
+<br />
+<span style="font-weight:bold; font-size:17pt;">Closing Thought</span><br />
 
-### Closing Thought
 **My job isn’t to have every answer.  
 My job is to make sure the *next answer* — whatever it is — comes easier.**
 
