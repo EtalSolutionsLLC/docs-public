@@ -1,15 +1,15 @@
 
 body {
     font-family: 'Montserrat';
-    background-color: #FFF;
-    color: #0D255E;
+    background-color: #000;
+    color: #123BFF;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #FFF;
-    color: #0D255E;
+    background-color: #000;
+    color: #123BFF;
     text-align: center;
     padding: 20px;
 }
