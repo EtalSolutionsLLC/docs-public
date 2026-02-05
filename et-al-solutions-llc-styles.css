@@ -24,10 +24,10 @@ header p {
     font-size: 1.2em;
 }
 
-.sidebar { background: #111; color: #eee; padding: 16px; }
-.sidebar a { color: #eee; text-decoration: none; }
+.sidebar { background: #c0c0c0; color: #9b5de5; padding: 16px; }
+.sidebar a { color: #9b5de5; text-decoration: none; }
 .sidebar li { list-style: none; margin: 8px 0; }
-.top-row { display: flex; justify-content: flex-end; gap: 12px; align-items: center; padding: 12px 0; border-bottom: 1px solid #ddd; }
+.top-row { display: flex; justify-content: flex-end; gap: 12px; align-items: center; padding: 12px 0; border-bottom: 1px solid #c0c0c0; }
 .page { display: grid; grid-template-columns: 220px 1fr; min-height: 100vh; }
 
 section {
