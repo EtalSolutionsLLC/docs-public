@@ -10,7 +10,7 @@ body {
     background-attachment: fixed;    /* Optional: parallax-style effect */
 }
 
-body a {font-weight:bolder; text-decoration: none; font-size:18px;}
+body a {font-weight:bolder; text-decoration: none; font-size:18pt;}
 body a:hover {text-decoration: underline;}
 
 header {
