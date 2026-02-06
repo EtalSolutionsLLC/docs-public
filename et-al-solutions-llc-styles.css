@@ -28,7 +28,7 @@ header p {
     font-size: 1.2em;
 }
 
-.sidebar { background: #000; color: #123bff; margin: 16px; }
+.sidebar { background: #000; color: #123bff; margin: 16px; font-weight: 700; }
 .sidebar a { color: #123bff; text-decoration: none; }
 .sidebar li { list-style: none; margin: 8px 0; }
 .top-row { display: grid; justify-content:end; gap: 12px; align-items: center; padding: 12px 0; border-bottom: 1px solid #c0c0c0; }
