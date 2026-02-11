@@ -80,6 +80,11 @@ section h2 {
     border-radius: 8px;
 }
 
+.disabled-link {
+  pointer-events: none;
+  opacity: 0.6;
+}
+
 .timeline {
     display:grid;
     flex-direction: column;
