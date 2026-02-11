@@ -30,7 +30,7 @@ header p {
     font-size: 1.2em;
 }
 
-.sidebar { background: #000; margin: -20px 16px 0px; }
+.sidebar { background: #000; margin: -20px 16px 0px; padding: 50px 0 0 }
 .sidebar li { list-style: none; margin: 4px 0; }
 .top-row { display: block; justify-content:end; padding: 12px 0; position: absolute; top:0px; left:0px; width:100%; border-bottom: 1px solid #c0c0c0;}
 .top-row a { float: right; padding 0 10px}
