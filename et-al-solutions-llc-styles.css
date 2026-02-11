@@ -35,6 +35,7 @@ header p {
 .top-row { display: block; justify-content:end; padding: 12px 0; position: absolute; top:0px; left:0px; width:100%; border-bottom: 1px solid #c0c0c0;}
 .top-row a { float: right; padding 0 10px}
 .page { display: grid; grid-template-columns: 220px 1fr; min-height: 100vh; }
+.content {position: relative; padding: 20px 0 0}
 
 .nav-link {text-decoration: none; color: #9b5de5; font-weight: bolder; font-size: 18px;}
 .nav-link:hover (text-decoration: underline}
