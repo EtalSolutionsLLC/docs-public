@@ -30,14 +30,14 @@ header p {
     font-size: 1.2em;
 }
 
-.sidebar { background: #000; margin: 16px; }
-.sidebar a { text-decoration: none; color: #9b5de5; font-weight: bolder; font-size: 18px;}
-.sidebar a:hover {text-decoration: underline}
+.sidebar { background: #000; margin: -20px 16px 0px; }
 .sidebar li { list-style: none; margin: 4px 0; }
-.top-row { display: grid; justify-content:end; gap: 12px; align-items: center; padding: 12px 0; border-bottom: 1px solid #c0c0c0; }
-.top-row a { text-decoration: none; color: #9b5de5; font-weight: bolder; font-size: 18px;}
-.top-row a:hover {text-decoration: underline}
+.top-row { display: block; justify-content:end; padding: 12px 0; position: absolute; top:0px; left:0px; width:100%; border-bottom: 1px solid #c0c0c0;}
+.top-row a { float: right; padding 0 10px}
 .page { display: grid; grid-template-columns: 220px 1fr; min-height: 100vh; }
+
+.nav-link {text-decoration: none; color: #9b5de5; font-weight: bolder; font-size: 18px;}
+.nav-link:hover (text-decoration: underline}
 
 section {
     padding: 20px;
