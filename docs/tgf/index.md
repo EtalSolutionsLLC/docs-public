@@ -1,10 +1,10 @@
 ---
-title: EPC
+title: TGF
 parent: Docs
 has_children: true
 nav_order: 2
 ---
 
-# Et al Portable Contract (EPC)
+# Technical Governance Framework (TGF) v1.8.1
 
-Public canon for the EPC.
+Public canon for the TGF.
