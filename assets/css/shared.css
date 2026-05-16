@@ -234,6 +234,10 @@ body {
   text-underline-offset: 3px;
 }
 
+html.is-framed .legal-direct-actions {
+  display: none;
+}
+
 /* Mobile */
 
 @media (max-width: 760px) {
