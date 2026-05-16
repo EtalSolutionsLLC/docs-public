@@ -3,7 +3,7 @@
   inset: 0;
   z-index: 5000;
   display: none;
-  padding: clamp(12px, 2.5vw, 32px);
+  padding: clamp(32px, 6vw, 72px);
   background: rgba(5, 12, 24, 0.72);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
@@ -16,8 +16,8 @@
 
 .policy-modal {
   position: relative;
-  width: min(1180px, 100%);
-  height: min(920px, calc(100svh - 24px));
+  width: min(1040px, calc(100vw - 120px));
+  height: min(780px, calc(100svh - 120px));
   background: #050c18;
   border: 1px solid rgba(255, 255, 255, 0.18);
   box-shadow: 0 30px 90px rgba(0, 0, 0, 0.48);
@@ -64,11 +64,12 @@ body.policy-modal-open {
 
 @media (max-width: 760px) {
   .policy-modal-backdrop {
-    padding: 8px;
+    padding: 12px;
   }
 
   .policy-modal {
-    height: calc(100svh - 16px);
+    width: 100%;
+    height: calc(100svh - 24px);
   }
 
   .policy-modal-close {
