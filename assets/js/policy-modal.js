@@ -24,12 +24,12 @@
       modal.setAttribute("aria-hidden", "true");
 
       modal.innerHTML = `
-        <button class="policy-modal-close" type="button" aria-label="Close privacy policy">×</button>
         <div class="policy-modal" role="dialog" aria-modal="true" aria-label="Privacy Policy">
+          <button class="policy-modal-close" type="button" aria-label="Close privacy policy">×</button>
           <iframe title="Privacy Policy"></iframe>
         </div>
       `;
-
+      
       document.body.appendChild(modal);
 
       modal.querySelector(".policy-modal-close").addEventListener("click", closePolicyModal);
