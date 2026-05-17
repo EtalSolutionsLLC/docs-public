@@ -110,7 +110,7 @@ body {
   padding: clamp(28px, 4vw, 56px) clamp(28px, 5vw, 76px);
 }
 
-.legal-section {
+.legal-section {7
   max-width: var(--legal-content-max);
 }
 
@@ -161,9 +161,9 @@ body {
   padding-left: 1.35rem;
 }
 
-.legal-section li + li {
+/*.legal-section li + li {
   margin-top: 0.6rem;
-}
+}*/
 
 .legal-section strong {
   color: #111827;
