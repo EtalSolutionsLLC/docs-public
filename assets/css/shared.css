@@ -48,7 +48,7 @@ body {
 }
 
 .legal-card {
-  width: min(var(--legal-max), calc(100vw - 28px));
+  /*width: min(var(--legal-max), calc(100vw - 28px));*/
   min-height: min(900px, calc(100svh - 28px));
   background: var(--legal-panel);
   border: 1px solid rgba(255, 255, 255, 0.42);
