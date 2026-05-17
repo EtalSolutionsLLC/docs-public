@@ -194,9 +194,22 @@
         This page has either moved, vanished, or achieved a level of privacy to which most websites can only aspire.
       </p>
       <div class="actions">
-        <a class="primary" href="/">Back to Home</a>
+        <a class="primary" id="home-link" href="/">Back to Home</a>
         <a class="secondary" href="javascript:history.back()">Go Back</a>
       </div>
+      
+      <script>
+        (function () {
+          var homeLink = document.getElementById("home-link");
+          var host = window.location.hostname;
+          var pathParts = window.location.pathname.split("/").filter(Boolean);
+      
+          var isGithubPages = host.endsWith(".github.io");
+          var isProjectPage = isGithubPages && pathParts.length > 0;
+      
+          homeLink.href = isProjectPage ? "/" + pathParts[0] + "/" : "/";
+        })();
+      </script>
     </section>
   </main>
 </body>
