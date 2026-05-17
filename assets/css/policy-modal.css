@@ -34,20 +34,20 @@
 
 .policy-modal-close {
   position: absolute;
-  top: -22px;
-  right: -22px;
+  top: 14px;
+  right: 22px;
   z-index: 5010;
-  width: 44px;
-  height: 44px;
+  width: 42px;
+  height: 42px;
   display: grid;
   place-items: center;
   border-radius: 999px;
-  border: 1px solid rgba(255, 255, 255, 0.24);
-  background: rgba(5, 12, 24, 0.92);
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  background: rgba(5, 12, 24, 0.88);
   color: #ffffff;
-  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.32);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.32);
   font: inherit;
-  font-size: 1.75rem;
+  font-size: 1.65rem;
   line-height: 1;
   cursor: pointer;
 }
@@ -70,7 +70,6 @@ body.policy-modal-open {
   .policy-modal {
     width: 100%;
     height: calc(100svh - 24px);
-    overflow: hidden;
   }
 
   .policy-modal-close {
@@ -79,5 +78,30 @@ body.policy-modal-open {
     width: 42px;
     height: 42px;
     font-size: 1.65rem;
+  }
+}
+
+@media (max-width: 460px) {
+  .policy-modal-backdrop {
+    padding: 8px;
+  }
+
+  .policy-modal {
+    height: calc(100svh - 16px);
+  }
+
+  .policy-modal-close {
+    top: 8px;
+    right: 8px;
+    width: 40px;
+    height: 40px;
+    font-size: 1.55rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .policy-modal-backdrop {
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
   }
 }
