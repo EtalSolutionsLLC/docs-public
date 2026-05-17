@@ -33,21 +33,21 @@
 }
 
 .policy-modal-close {
-  position: fixed;
-  top: clamp(14px, 2vw, 24px);
-  right: clamp(14px, 2vw, 24px);
+  position: absolute;
+  top: -22px;
+  right: -22px;
   z-index: 5010;
-  width: 48px;
-  height: 48px;
+  width: 44px;
+  height: 44px;
   display: grid;
   place-items: center;
   border-radius: 999px;
   border: 1px solid rgba(255, 255, 255, 0.24);
-  background: rgba(5, 12, 24, 0.9);
+  background: rgba(5, 12, 24, 0.92);
   color: #ffffff;
   box-shadow: 0 14px 34px rgba(0, 0, 0, 0.32);
   font: inherit;
-  font-size: 2rem;
+  font-size: 1.75rem;
   line-height: 1;
   cursor: pointer;
 }
