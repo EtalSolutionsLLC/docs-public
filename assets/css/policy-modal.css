@@ -70,11 +70,14 @@ body.policy-modal-open {
   .policy-modal {
     width: 100%;
     height: calc(100svh - 24px);
+    overflow: hidden;
   }
 
   .policy-modal-close {
-    width: 44px;
-    height: 44px;
-    font-size: 1.75rem;
+    top: 10px;
+    right: 10px;
+    width: 42px;
+    height: 42px;
+    font-size: 1.65rem;
   }
 }
